@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRekognition.Demo", "ImageRekognition.Demo\ImageRekognition.Demo.csproj", "{15438690-53CA-49F8-81BF-C170A25FA391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15438690-53CA-49F8-81BF-C170A25FA391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15438690-53CA-49F8-81BF-C170A25FA391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15438690-53CA-49F8-81BF-C170A25FA391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15438690-53CA-49F8-81BF-C170A25FA391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFFE09A5-2B57-4016-B78E-982C9DC44503}
+	EndGlobalSection
+EndGlobal

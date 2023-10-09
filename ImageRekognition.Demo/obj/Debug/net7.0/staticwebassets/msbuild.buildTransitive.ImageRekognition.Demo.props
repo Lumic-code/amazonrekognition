@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ImageRekognition.Demo.props" />
+</Project>
